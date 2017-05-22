@@ -1,4 +1,4 @@
-source("DataLocator.R")
+source("DataLocator.R") ## See here: https://github.com/acblimehouse/ExData_Plotting4
 
 ## Question 4 - Across the United States, how have emissions from coal combustion-related sources changed 
 ##              from 1999–2008?
